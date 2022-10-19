@@ -4,7 +4,7 @@ a small program that randomly emits a beep between 7 and 17 seconds. This has no
 INSTRUCTIONS FOR INSTALLATION:<br />
 1.) After downloading the ZIP file, open it and use the setup wizard to install the program.<br />
 2.) Open the folder in which you downloaded it and click on the application named "beep".<br />
-3.) The application will open a window: you may close this, the program will run without it open.<br />
+3.) The application will open a window: you may close this after the first beep; the program will run without it open.<br />
 <br />
 STOPPING THE PROGRAM:<br />
 1.) Open Windows Task Manager and navigate to the Processes tab.<br />
